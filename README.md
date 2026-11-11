@@ -1,5 +1,7 @@
 # google-apps
 
+**Live site:** https://google-apps.sweedler.com
+
 Google requires every app that uses Google sign-in to have a public homepage and privacy policy URL on its OAuth consent screen. This repo hosts those pages for Ari's Google apps at [google-apps.sweedler.com](https://google-apps.sweedler.com).
 
 | App | Homepage | Privacy policy |
